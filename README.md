@@ -5,4 +5,5 @@ Todos list
 - [ ] Loss funciton search in AutoML
 
 - [ ] MIT requirements
+- application goes through polsci application website. every program has its own application website
 - [ ] TOEFL
