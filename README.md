@@ -10,3 +10,6 @@ Todos list
 
 # Make
 - [ ] KGE-P : Profiling using KGE
+
+# Readings
+- [ ] Re-summarize the linear algebra in terms of Data Normalization
