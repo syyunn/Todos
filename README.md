@@ -13,3 +13,6 @@ Todos list
 
 # Readings
 - [ ] Re-summarize the linear algebra in terms of Data Normalization
+
+# Design
+- [ ] Experimental design that proves the logic compresses the data automatically by understanding the correlation between data
